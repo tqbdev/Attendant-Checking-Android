@@ -1,14 +1,26 @@
 [
     {
-        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_logout.png",
-        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_logout.png"
+        "merged": "/home/tqbdev/Documents/Workspaces/University/KCPM/Attendant-Checking-Android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_logout.png",
+        "source": "/home/tqbdev/Documents/Workspaces/University/KCPM/Attendant-Checking-Android/app/src/main/res/mipmap-xxxhdpi/ic_logout.png"
     },
     {
-        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
-        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+        "merged": "/home/tqbdev/Documents/Workspaces/University/KCPM/Attendant-Checking-Android/D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_logout.png",
+        "source": "/home/tqbdev/Documents/Workspaces/University/KCPM/Attendant-Checking-Android/D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_logout.png"
     },
     {
-        "merged": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher_round.png",
-        "source": "D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+        "merged": "/home/tqbdev/Documents/Workspaces/University/KCPM/Attendant-Checking-Android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/home/tqbdev/Documents/Workspaces/University/KCPM/Attendant-Checking-Android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/tqbdev/Documents/Workspaces/University/KCPM/Attendant-Checking-Android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher_round.png",
+        "source": "/home/tqbdev/Documents/Workspaces/University/KCPM/Attendant-Checking-Android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/tqbdev/Documents/Workspaces/University/KCPM/Attendant-Checking-Android/D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "/home/tqbdev/Documents/Workspaces/University/KCPM/Attendant-Checking-Android/D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "/home/tqbdev/Documents/Workspaces/University/KCPM/Attendant-Checking-Android/D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher_round.png",
+        "source": "/home/tqbdev/Documents/Workspaces/University/KCPM/Attendant-Checking-Android/D:\\HOC TAP\\Capstone\\QuanLyDiemDanhAndroid-master\\Diemdanh\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
     }
 ]

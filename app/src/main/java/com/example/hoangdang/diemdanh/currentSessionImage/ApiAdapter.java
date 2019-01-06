@@ -191,7 +191,7 @@ public class ApiAdapter {
     public void GetBaseURL(Context context, final VolleyCallBack callBack)
     {
         RequestQueue requestQueue = Volley.newRequestQueue(context);
-        String url = "https://checkingattendance.000webhostapp.com/config.php";
+        String url = "https://kcpmnhom11.000webhostapp.com/config.php";
         StringRequest stringRequest = new StringRequest(Request.Method.GET, url, new Response.Listener<String>() {
             @Override
             public void onResponse(String response) {
